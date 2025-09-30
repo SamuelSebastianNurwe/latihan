@@ -6,7 +6,7 @@
     <style>
         table { border-collapse: collapse; }
         th, td { border: 1px solid #333; padding: 4px 12px; }
-        th { background: #eee; }
+        th { background: #757575ff; }
     </style>
 </head>
 <body>
@@ -15,7 +15,7 @@
         <thead>
             <tr>
                 <th>Kode</th>
-                <th>Nama Fakultas</th>
+                <th>Nama Fakultas Terkuat</th>
             </tr>
         </thead>
         <tbody>
