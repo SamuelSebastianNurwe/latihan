@@ -5,17 +5,17 @@
     <title>Daftar Fakultas - Telkom University</title>
     <style>
         table { border-collapse: collapse; }
-        th, td { border: 1px solid #333; padding: 4px 12px; }
+        th, td { border: 1px solid #ff0000ff; padding: 4px 12px; }
         th { background: #757575ff; }
     </style>
 </head>
 <body>
-    <h3>Daftar Fakultas - Telkom University</h3>
+    <h3>Daftar Fakultas - Brainrot</h3>
     <table>
         <thead>
             <tr>
                 <th>Kode</th>
-                <th>Nama Fakultas Terkuat</th>
+                <th>Nama Fakultas Tung tung tung</th>
             </tr>
         </thead>
         <tbody>
